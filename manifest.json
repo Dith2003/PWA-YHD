@@ -13,17 +13,17 @@
         {
             "src": "./img/favicon-1024.png",
             "sizes": "1024x1024",
-            "type": "img/png"
+            "type": "image/png"
         },
         {
             "src": "./img/favicon-512.png",
             "sizes": "512x512",
-            "type": "img/png"
+            "type": "image/png"
         },
         {
             "src": "./img/favicon-384.png",
             "sizes": "384x384",
-            "type": "img/png"
+            "type": "image/png"
         },
         {
             "src": "./img/favicon-256.png",
@@ -33,32 +33,32 @@
         {
             "src": "./img/favicon-192.png",
             "sizes": "192x192",
-            "type": "img/png"
+            "type": "image/png"
         },
         {
             "src": "./img/favicon-128.png",
             "sizes": "128x128",
-            "type": "img/png"
+            "type": "image/png"
         },
         {
             "src": "./img/favicon-96.png",
             "sizes": "96x96",
-            "type": "img/png"
+            "type": "image/png"
         },
         {
             "src": "./img/favicon-64.png",
             "sizes": "64x64",
-            "type": "img/png"
+            "type": "image/png"
         },
         {
             "src": "./img/favicon-32.png",
             "sizes": "32x32",
-            "type": "img/png"
+            "type": "image/png"
         },
         {
             "src": "./img/favicon-16.png",
             "sizes": "16x16",
-            "type": "img/png"
+            "type": "image/png"
         }
     ]  
 }
